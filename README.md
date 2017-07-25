@@ -1,5 +1,3 @@
-# hello_world
-Learning how to use GIT HUB
-
-Lets see how long it will take to get this done
- 
+astring = "Hello world!"
+print(astring[3:7])
+print(astring[3:7:1])
